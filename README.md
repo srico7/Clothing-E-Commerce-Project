@@ -3,8 +3,8 @@ Online Clothing and Accessories E-Commerce platform targeting small shop owners 
 
 * Desided Technologies to be used -
 
-=>MERN stack (MongoDb, ExpressJS, React, NodeJS)
-=>StripeJS
-=>CommerceJS
-=>Material UI
+=>MERN stack (MongoDb, ExpressJS, React, NodeJS)<br>
+=>StripeJS<br>
+=>CommerceJS<br>
+=>Material UI<br>
 =>Sementic UI
